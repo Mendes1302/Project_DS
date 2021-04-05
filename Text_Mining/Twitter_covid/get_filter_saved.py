@@ -70,7 +70,7 @@ while True:
         mystream = Stream(auth, listener = mylistener)
 
         # Keywords related to Covid-19
-        keywords = ["Sars-Cov-2", "covid", "Sputnik V", "covid-19", "COVID-19", "coronavírus", "CoronaVac", $
+        keywords = ["Sars-Cov-2", "covid", "Sputnik V", "covid-19", "COVID-19", "coronavírus", "CoronaVac", "Pfizer", "Novavax", "CoronaVac", "AstraZeneca"]
         mystream.filter(track=keywords, stall_warnings=True)
     
     except Exception:
