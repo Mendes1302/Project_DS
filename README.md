@@ -22,5 +22,24 @@
 * ## tips:
 * > ### I had trouble connecting to MongoDB Web. So, install:
         pip3 install pymongo[srv]
+        
+* ## Part II
+
+> ### Excluded outliers, converted from a NoSQL database (MongoDB) to SQL (PostgreSQL), converting the city name (string) to latitude and longitude, removing emoji from the names and filtering the geographic coordinates of Brazil limiting from Oiapoque to Chuí (latitude) and Ponta do Seixas to Serra Contamana (longitude). [See the code](https://github.com/Mendes1302/Projects_DS/blob/main/Text_Mining/Twitter_covid/send_database.py).
+
+* ## tips:
+* > ### There are many outliers. Do not worry!!
+* > ### I had a problem installing the grafana on the raspberry pi w zero with the [link](https://grafana.com/tutorials/install-grafana-on-raspberry-pi/). These commands worked:
+        sudo apt-get install -y adduser libfontconfig1
+        wget https://dl.grafana.com/oss/release/grafana_7.5.3_amd64.deb
+        sudo dpkg -i grafana_7.5.3_amd64.deb
+
+        
+        
+        
+        
+
+## Result:
+![image](https://github.com/Mendes1302/Projects_DS/blob/main/Text_Mining/Twitter_covid/midia/conclusion.png)
 
 
