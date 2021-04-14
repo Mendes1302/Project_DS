@@ -25,7 +25,7 @@
         
 * ## Part II
 
-> ### Excluded outliers, converted from a NoSQL database (MongoDB) to SQL (PostgreSQL), converting the city name (string) to latitude and longitude, removing emoji from the names and filtering the geographic coordinates of Brazil limiting from Oiapoque to Chuí (latitude) and Ponta do Seixas to Serra Contamana (longitude). [See the code](https://github.com/Mendes1302/Projects_DS/blob/main/Text_Mining/Twitter_covid/send_database.py).
+> ### Excluded outliers, converted from a NoSQL (MongoDB) to SQL (PostgreSQL), converting the city name (string) to latitude and longitude, removing emoji from the names and filtering the geographic coordinates of Brazil limiting from Oiapoque to Chuí (latitude) and Ponta do Seixas to Serra Contamana (longitude). [See the code](https://github.com/Mendes1302/Projects_DS/blob/main/Text_Mining/Twitter_covid/send_database.py).
 
 * ## tips:
 * > ### There are many outliers. Do not worry!!
