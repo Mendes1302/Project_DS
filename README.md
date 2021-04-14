@@ -40,6 +40,8 @@
         
 
 ## Result:
-![image](https://github.com/Mendes1302/Projects_DS/blob/main/Text_Mining/Twitter_covid/midia/conclusion.png)
-
+>### Image:
+>![image](https://github.com/Mendes1302/Projects_DS/blob/main/Text_Mining/Twitter_covid/midia/conclusion.png)
+>### YouTube:
+>[![Watch the video](https://img.youtube.com/vi/R4FgKcYtT30/maxresdefault.jpg)](https://youtu.be/R4FgKcYtT30)
 
