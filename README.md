@@ -1,6 +1,6 @@
 # Project_DS
 
-## Repository of projetos de Data Science. See the programming languages, OS, hardware of application, API, OSS and Frameworks used:
+## Repository of projets de Data Science. See the programming languages, OS, hardware of application, API, OSS and Frameworks used:
 
   - Python.
   - SQL.
